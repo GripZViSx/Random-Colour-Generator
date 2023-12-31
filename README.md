@@ -1,1 +1,1 @@
-<span style="font-size: 5px">Random Colour Generator</span>
+<span style="text-transform: uppercase;">Random Colour Generator</span>
