@@ -57,9 +57,8 @@ body {
  flex-direction: column;
  justify-content: center;
  align-items: center;
+ padding: 2vh 6vw;
  margin-top: 2vh;
- width: 40vw;
- height: 6vh;
  background-color: #000000;
  border-radius: 2vw;
  color: #FFFFFF;
